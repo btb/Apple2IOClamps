@@ -91,7 +91,7 @@ STANDARD
   9
 $CLAYER
   8
-Bend
+SCS_SLE
   9
 $CELTYPE
   6
@@ -1121,9 +1121,9 @@ AcDbViewportTableRecord
  21
 1
  12
-87.11292010234543
+87.16490959758667
  22
-38.90057471103736
+38.97403812822606
  13
 0
  23
@@ -1149,9 +1149,9 @@ AcDbViewportTableRecord
  37
 0
  40
-117.3109053925691
+118.3265842271368
  41
-1.728486646884273
+1.713649851632048
  42
 50
  43
@@ -2305,7 +2305,7 @@ AcDbSymbolTableRecord
 100
 AcDbLayerTableRecord
   2
-Etch
+SCS_SLE
  70
     0
  62
@@ -2573,7 +2573,13 @@ Standard
 289
     3
 340
-4D
+standard
+341
+
+371
+   -2
+372
+   -2
   0
 ENDTAB
   0
@@ -3261,7 +3267,7 @@ LINE
 100
 AcDbEntity
   8
-Etch
+SCS_SLE
   6
 ByLayer
  62
@@ -3313,7 +3319,7 @@ LINE
 100
 AcDbEntity
   8
-Etch
+SCS_SLE
   6
 ByLayer
  62
@@ -3461,7 +3467,7 @@ LINE
 100
 AcDbEntity
   8
-Etch
+SCS_SLE
   6
 ByLayer
  62
@@ -3485,7 +3491,7 @@ LINE
 100
 AcDbEntity
   8
-Etch
+SCS_SLE
   6
 ByLayer
  62
@@ -3509,7 +3515,7 @@ LINE
 100
 AcDbEntity
   8
-Etch
+SCS_SLE
   6
 ByLayer
  62
@@ -3533,7 +3539,7 @@ LINE
 100
 AcDbEntity
   8
-Etch
+SCS_SLE
   6
 ByLayer
  62
@@ -4445,7 +4451,7 @@ LINE
 100
 AcDbEntity
   8
-Etch
+SCS_SLE
   6
 ByLayer
  62
@@ -4469,7 +4475,7 @@ LINE
 100
 AcDbEntity
   8
-Etch
+SCS_SLE
   6
 ByLayer
  62
@@ -4493,7 +4499,7 @@ LINE
 100
 AcDbEntity
   8
-Etch
+SCS_SLE
   6
 ByLayer
  62
@@ -4517,7 +4523,7 @@ LINE
 100
 AcDbEntity
   8
-Etch
+SCS_SLE
   6
 ByLayer
  62
@@ -6565,7 +6571,7 @@ E9
 100
 AcDbEntity
   8
-Etch
+SCS_SLE
   6
 ByLayer
  62
@@ -6589,7 +6595,7 @@ EA
 100
 AcDbEntity
   8
-Etch
+SCS_SLE
   6
 ByLayer
  62
@@ -6613,7 +6619,7 @@ EB
 100
 AcDbEntity
   8
-Etch
+SCS_SLE
   6
 ByLayer
  62
@@ -6637,7 +6643,7 @@ EC
 100
 AcDbEntity
   8
-Etch
+SCS_SLE
   6
 ByLayer
  62
@@ -6661,7 +6667,7 @@ ED
 100
 AcDbEntity
   8
-Etch
+SCS_SLE
   6
 ByLayer
  62
@@ -6685,7 +6691,7 @@ EE
 100
 AcDbEntity
   8
-Etch
+SCS_SLE
   6
 ByLayer
  62
@@ -6709,7 +6715,7 @@ EF
 100
 AcDbEntity
   8
-Etch
+SCS_SLE
   6
 ByLayer
  62
@@ -6733,7 +6739,7 @@ F0
 100
 AcDbEntity
   8
-Etch
+SCS_SLE
   6
 ByLayer
  62
@@ -7213,7 +7219,7 @@ LINE
 100
 AcDbEntity
   8
-Etch
+SCS_SLE
   6
 ByLayer
  62
@@ -7237,7 +7243,7 @@ LINE
 100
 AcDbEntity
   8
-Etch
+SCS_SLE
   6
 ByLayer
  62
@@ -7261,7 +7267,7 @@ LINE
 100
 AcDbEntity
   8
-Etch
+SCS_SLE
   6
 ByLayer
  62
@@ -7285,7 +7291,7 @@ LINE
 100
 AcDbEntity
   8
-Etch
+SCS_SLE
   6
 ByLayer
  62
@@ -7309,7 +7315,7 @@ LINE
 100
 AcDbEntity
   8
-Etch
+SCS_SLE
   6
 ByLayer
  62
@@ -7333,7 +7339,7 @@ LINE
 100
 AcDbEntity
   8
-Etch
+SCS_SLE
   6
 ByLayer
  62
@@ -7357,7 +7363,7 @@ LINE
 100
 AcDbEntity
   8
-Etch
+SCS_SLE
   6
 ByLayer
  62
@@ -7381,7 +7387,7 @@ LINE
 100
 AcDbEntity
   8
-Etch
+SCS_SLE
   6
 ByLayer
  62
@@ -7405,7 +7411,7 @@ SPLINE
 100
 AcDbEntity
   8
-Etch
+SCS_SLE
   6
 ByLayer
  62
@@ -7471,7 +7477,7 @@ SPLINE
 100
 AcDbEntity
   8
-Etch
+SCS_SLE
   6
 ByLayer
  62
@@ -7537,7 +7543,7 @@ SPLINE
 100
 AcDbEntity
   8
-Etch
+SCS_SLE
   6
 ByLayer
  62
@@ -7603,7 +7609,7 @@ SPLINE
 100
 AcDbEntity
   8
-Etch
+SCS_SLE
   6
 ByLayer
  62
@@ -7669,7 +7675,7 @@ SPLINE
 100
 AcDbEntity
   8
-Etch
+SCS_SLE
   6
 ByLayer
  62
@@ -7735,7 +7741,7 @@ SPLINE
 100
 AcDbEntity
   8
-Etch
+SCS_SLE
   6
 ByLayer
  62
@@ -7801,7 +7807,7 @@ SPLINE
 100
 AcDbEntity
   8
-Etch
+SCS_SLE
   6
 ByLayer
  62
@@ -7867,7 +7873,7 @@ SPLINE
 100
 AcDbEntity
   8
-Etch
+SCS_SLE
   6
 ByLayer
  62
@@ -7933,7 +7939,7 @@ SPLINE
 100
 AcDbEntity
   8
-Etch
+SCS_SLE
   6
 ByLayer
  62
@@ -7999,7 +8005,7 @@ SPLINE
 100
 AcDbEntity
   8
-Etch
+SCS_SLE
   6
 ByLayer
  62
@@ -8065,7 +8071,7 @@ SPLINE
 100
 AcDbEntity
   8
-Etch
+SCS_SLE
   6
 ByLayer
  62
@@ -8131,7 +8137,7 @@ SPLINE
 100
 AcDbEntity
   8
-Etch
+SCS_SLE
   6
 ByLayer
  62
@@ -8197,7 +8203,7 @@ SPLINE
 100
 AcDbEntity
   8
-Etch
+SCS_SLE
   6
 ByLayer
  62
@@ -8263,7 +8269,7 @@ SPLINE
 100
 AcDbEntity
   8
-Etch
+SCS_SLE
   6
 ByLayer
  62
@@ -8329,7 +8335,7 @@ SPLINE
 100
 AcDbEntity
   8
-Etch
+SCS_SLE
   6
 ByLayer
  62
@@ -8395,7 +8401,7 @@ SPLINE
 100
 AcDbEntity
   8
-Etch
+SCS_SLE
   6
 ByLayer
  62
@@ -8461,7 +8467,7 @@ LINE
 100
 AcDbEntity
   8
-Etch
+SCS_SLE
   6
 ByLayer
  62
@@ -8485,7 +8491,7 @@ LINE
 100
 AcDbEntity
   8
-Etch
+SCS_SLE
   6
 ByLayer
  62
@@ -8509,7 +8515,7 @@ LINE
 100
 AcDbEntity
   8
-Etch
+SCS_SLE
   6
 ByLayer
  62
@@ -8533,7 +8539,7 @@ LINE
 100
 AcDbEntity
   8
-Etch
+SCS_SLE
   6
 ByLayer
  62
@@ -8557,7 +8563,7 @@ LINE
 100
 AcDbEntity
   8
-Etch
+SCS_SLE
   6
 ByLayer
  62
@@ -8581,7 +8587,7 @@ SPLINE
 100
 AcDbEntity
   8
-Etch
+SCS_SLE
   6
 ByLayer
  62
@@ -8647,7 +8653,7 @@ SPLINE
 100
 AcDbEntity
   8
-Etch
+SCS_SLE
   6
 ByLayer
  62
@@ -8713,7 +8719,7 @@ SPLINE
 100
 AcDbEntity
   8
-Etch
+SCS_SLE
   6
 ByLayer
  62
@@ -8779,7 +8785,7 @@ SPLINE
 100
 AcDbEntity
   8
-Etch
+SCS_SLE
   6
 ByLayer
  62
@@ -8845,7 +8851,7 @@ SPLINE
 100
 AcDbEntity
   8
-Etch
+SCS_SLE
   6
 ByLayer
  62
@@ -8911,7 +8917,7 @@ SPLINE
 100
 AcDbEntity
   8
-Etch
+SCS_SLE
   6
 ByLayer
  62
@@ -8977,7 +8983,7 @@ SPLINE
 100
 AcDbEntity
   8
-Etch
+SCS_SLE
   6
 ByLayer
  62
@@ -9043,7 +9049,7 @@ LINE
 100
 AcDbEntity
   8
-Etch
+SCS_SLE
   6
 ByLayer
  62
@@ -9067,7 +9073,7 @@ LINE
 100
 AcDbEntity
   8
-Etch
+SCS_SLE
   6
 ByLayer
  62
@@ -9091,7 +9097,7 @@ LINE
 100
 AcDbEntity
   8
-Etch
+SCS_SLE
   6
 ByLayer
  62
@@ -9115,7 +9121,7 @@ SPLINE
 100
 AcDbEntity
   8
-Etch
+SCS_SLE
   6
 ByLayer
  62
@@ -9181,7 +9187,7 @@ LINE
 100
 AcDbEntity
   8
-Etch
+SCS_SLE
   6
 ByLayer
  62
@@ -9205,7 +9211,7 @@ LINE
 100
 AcDbEntity
   8
-Etch
+SCS_SLE
   6
 ByLayer
  62
@@ -9229,7 +9235,7 @@ LINE
 100
 AcDbEntity
   8
-Etch
+SCS_SLE
   6
 ByLayer
  62
@@ -9253,7 +9259,7 @@ LINE
 100
 AcDbEntity
   8
-Etch
+SCS_SLE
   6
 ByLayer
  62
@@ -9277,7 +9283,7 @@ LINE
 100
 AcDbEntity
   8
-Etch
+SCS_SLE
   6
 ByLayer
  62
@@ -9301,7 +9307,7 @@ LINE
 100
 AcDbEntity
   8
-Etch
+SCS_SLE
   6
 ByLayer
  62
@@ -9325,7 +9331,7 @@ LINE
 100
 AcDbEntity
   8
-Etch
+SCS_SLE
   6
 ByLayer
  62
@@ -9349,7 +9355,7 @@ LINE
 100
 AcDbEntity
   8
-Etch
+SCS_SLE
   6
 ByLayer
  62
@@ -9373,7 +9379,7 @@ SPLINE
 100
 AcDbEntity
   8
-Etch
+SCS_SLE
   6
 ByLayer
  62
@@ -9439,7 +9445,7 @@ SPLINE
 100
 AcDbEntity
   8
-Etch
+SCS_SLE
   6
 ByLayer
  62
@@ -9505,7 +9511,7 @@ SPLINE
 100
 AcDbEntity
   8
-Etch
+SCS_SLE
   6
 ByLayer
  62
@@ -9571,7 +9577,7 @@ SPLINE
 100
 AcDbEntity
   8
-Etch
+SCS_SLE
   6
 ByLayer
  62
@@ -9637,7 +9643,7 @@ SPLINE
 100
 AcDbEntity
   8
-Etch
+SCS_SLE
   6
 ByLayer
  62
@@ -9703,7 +9709,7 @@ SPLINE
 100
 AcDbEntity
   8
-Etch
+SCS_SLE
   6
 ByLayer
  62
@@ -9769,7 +9775,7 @@ SPLINE
 100
 AcDbEntity
   8
-Etch
+SCS_SLE
   6
 ByLayer
  62
@@ -9835,7 +9841,7 @@ SPLINE
 100
 AcDbEntity
   8
-Etch
+SCS_SLE
   6
 ByLayer
  62
@@ -9901,7 +9907,7 @@ SPLINE
 100
 AcDbEntity
   8
-Etch
+SCS_SLE
   6
 ByLayer
  62
@@ -9967,7 +9973,7 @@ SPLINE
 100
 AcDbEntity
   8
-Etch
+SCS_SLE
   6
 ByLayer
  62
@@ -10033,7 +10039,7 @@ SPLINE
 100
 AcDbEntity
   8
-Etch
+SCS_SLE
   6
 ByLayer
  62
@@ -10099,7 +10105,7 @@ SPLINE
 100
 AcDbEntity
   8
-Etch
+SCS_SLE
   6
 ByLayer
  62
@@ -10165,7 +10171,7 @@ SPLINE
 100
 AcDbEntity
   8
-Etch
+SCS_SLE
   6
 ByLayer
  62
@@ -10231,7 +10237,7 @@ SPLINE
 100
 AcDbEntity
   8
-Etch
+SCS_SLE
   6
 ByLayer
  62
@@ -10297,7 +10303,7 @@ SPLINE
 100
 AcDbEntity
   8
-Etch
+SCS_SLE
   6
 ByLayer
  62
@@ -10363,7 +10369,7 @@ SPLINE
 100
 AcDbEntity
   8
-Etch
+SCS_SLE
   6
 ByLayer
  62
@@ -10429,7 +10435,7 @@ LINE
 100
 AcDbEntity
   8
-Etch
+SCS_SLE
   6
 ByLayer
  62
@@ -10453,7 +10459,7 @@ LINE
 100
 AcDbEntity
   8
-Etch
+SCS_SLE
   6
 ByLayer
  62
@@ -10477,7 +10483,7 @@ LINE
 100
 AcDbEntity
   8
-Etch
+SCS_SLE
   6
 ByLayer
  62
@@ -10501,7 +10507,7 @@ LINE
 100
 AcDbEntity
   8
-Etch
+SCS_SLE
   6
 ByLayer
  62
@@ -10525,7 +10531,7 @@ LINE
 100
 AcDbEntity
   8
-Etch
+SCS_SLE
   6
 ByLayer
  62
@@ -10549,7 +10555,7 @@ SPLINE
 100
 AcDbEntity
   8
-Etch
+SCS_SLE
   6
 ByLayer
  62
@@ -10615,7 +10621,7 @@ SPLINE
 100
 AcDbEntity
   8
-Etch
+SCS_SLE
   6
 ByLayer
  62
@@ -10681,7 +10687,7 @@ SPLINE
 100
 AcDbEntity
   8
-Etch
+SCS_SLE
   6
 ByLayer
  62
@@ -10747,7 +10753,7 @@ SPLINE
 100
 AcDbEntity
   8
-Etch
+SCS_SLE
   6
 ByLayer
  62
@@ -10813,7 +10819,7 @@ SPLINE
 100
 AcDbEntity
   8
-Etch
+SCS_SLE
   6
 ByLayer
  62
@@ -10879,7 +10885,7 @@ SPLINE
 100
 AcDbEntity
   8
-Etch
+SCS_SLE
   6
 ByLayer
  62
@@ -10945,7 +10951,7 @@ SPLINE
 100
 AcDbEntity
   8
-Etch
+SCS_SLE
   6
 ByLayer
  62
@@ -11011,7 +11017,7 @@ LINE
 100
 AcDbEntity
   8
-Etch
+SCS_SLE
   6
 ByLayer
  62
@@ -11035,7 +11041,7 @@ LINE
 100
 AcDbEntity
   8
-Etch
+SCS_SLE
   6
 ByLayer
  62
@@ -11059,7 +11065,7 @@ LINE
 100
 AcDbEntity
   8
-Etch
+SCS_SLE
   6
 ByLayer
  62
@@ -11083,7 +11089,7 @@ SPLINE
 100
 AcDbEntity
   8
-Etch
+SCS_SLE
   6
 ByLayer
  62
@@ -11849,7 +11855,7 @@ LINE
 100
 AcDbEntity
   8
-Etch
+SCS_SLE
   6
 ByLayer
  62
@@ -11901,7 +11907,7 @@ LINE
 100
 AcDbEntity
   8
-Etch
+SCS_SLE
   6
 ByLayer
  62
@@ -12049,7 +12055,7 @@ LINE
 100
 AcDbEntity
   8
-Etch
+SCS_SLE
   6
 ByLayer
  62
@@ -12073,7 +12079,7 @@ LINE
 100
 AcDbEntity
   8
-Etch
+SCS_SLE
   6
 ByLayer
  62
@@ -12097,7 +12103,7 @@ LINE
 100
 AcDbEntity
   8
-Etch
+SCS_SLE
   6
 ByLayer
  62
@@ -12121,7 +12127,7 @@ LINE
 100
 AcDbEntity
   8
-Etch
+SCS_SLE
   6
 ByLayer
  62

@@ -91,7 +91,7 @@ STANDARD
   9
 $CLAYER
   8
-etch
+SCS_SLE
   9
 $CELTYPE
   6
@@ -1115,9 +1115,9 @@ AcDbViewportTableRecord
  21
 1
  12
-45.24120309855072
+41.08205321100917
  22
-13.58536127528319
+14.03835474006116
  13
 0
  23
@@ -1143,9 +1143,9 @@ AcDbViewportTableRecord
  37
 0
  40
-43.81116506957354
+35.70509847094802
  41
-1.728486646884273
+1.713649851632048
  42
 50
  43
@@ -2277,7 +2277,7 @@ AcDbSymbolTableRecord
 100
 AcDbLayerTableRecord
   2
-etch
+SCS_SLE
  70
     0
  62
@@ -2589,7 +2589,13 @@ Standard
 289
     3
 340
-4E
+STANDARD
+341
+
+371
+   -2
+372
+   -2
   0
 ENDTAB
   0
@@ -3845,7 +3851,7 @@ LINE
 100
 AcDbEntity
   8
-etch
+SCS_SLE
   6
 ByLayer
  62
@@ -3869,7 +3875,7 @@ LINE
 100
 AcDbEntity
   8
-etch
+SCS_SLE
   6
 ByLayer
  62
@@ -4197,7 +4203,7 @@ LINE
 100
 AcDbEntity
   8
-etch
+SCS_SLE
   6
 ByLayer
  62
@@ -4221,7 +4227,7 @@ LINE
 100
 AcDbEntity
   8
-etch
+SCS_SLE
   6
 ByLayer
  62
@@ -4301,7 +4307,7 @@ LINE
 100
 AcDbEntity
   8
-etch
+SCS_SLE
   6
 ByLayer
  62
@@ -4325,7 +4331,7 @@ LINE
 100
 AcDbEntity
   8
-etch
+SCS_SLE
   6
 ByLayer
  62
@@ -4405,7 +4411,7 @@ LINE
 100
 AcDbEntity
   8
-etch
+SCS_SLE
   6
 ByLayer
  62
@@ -4429,7 +4435,7 @@ LINE
 100
 AcDbEntity
   8
-etch
+SCS_SLE
   6
 ByLayer
  62
@@ -5241,7 +5247,7 @@ B5
 100
 AcDbEntity
   8
-etch
+SCS_SLE
   6
 ByLayer
  62
@@ -5265,7 +5271,7 @@ B6
 100
 AcDbEntity
   8
-etch
+SCS_SLE
   6
 ByLayer
  62
@@ -5289,7 +5295,7 @@ B7
 100
 AcDbEntity
   8
-etch
+SCS_SLE
   6
 ByLayer
  62
@@ -5313,7 +5319,7 @@ B8
 100
 AcDbEntity
   8
-etch
+SCS_SLE
   6
 ByLayer
  62
