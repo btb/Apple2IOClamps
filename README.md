@@ -4,6 +4,8 @@ Clamps for fixing connectors to the rear of an Apple ][
 
 ## Parts
 
+![Parts](images/parts.jpg)
+
 ### Rear Clamp
 
 ![RearClamp](images/RearClamp_2x_bent.png)
